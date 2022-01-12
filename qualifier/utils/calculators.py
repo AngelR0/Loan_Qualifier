@@ -4,7 +4,7 @@
 
 
 # Calculates users monthly debt to income ratio
-def calculate_monthly_debt(monthly_debt_payment, monthly_income):
+def calculate_monthly_debt_ratio(monthly_debt_payment, monthly_income):
 
     monthly_debt_ratio = int(monthly_debt_payment) / int(monthly_income)
     return monthly_debt_ratio
