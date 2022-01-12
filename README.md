@@ -24,7 +24,7 @@ To install the following packages we need to use terminal or git bash and type i
     pip install Fire
     ```
 * Questionary
-  ```python
+    ```python
     pip install questionary
     ```
 ---
@@ -34,15 +34,16 @@ To execute the application:
 * Open the file containing the application.
 * Run the **app.py** file by typing in the command line:
     ```python
-    python app.py
+   python app.py
     ```
 * There will be prompts asking for the file path being extracted, type:
-```python 
-    ./data/daily_rate_sheet.csv
-``` 
-![File Path Extraction](Pictures/File%20Path%20Extraction.png)
+  ```python 
+  ./data/daily_rate_sheet.csv
+  ``` 
+  ![File Path Extraction](Pictures/File%20Path%20Extraction.png)
 
 * These are the prompts:
+  
   ![App Prompts](Picture/../Pictures/App%20Prompts.png)
 ----------------------------------------------------------------
 ## Contributors
