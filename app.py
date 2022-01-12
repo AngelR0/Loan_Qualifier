@@ -72,8 +72,6 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan_amount, ho
 
 def save_qualified_loans(qualifying_loans):
 
-    csvpath = questionary.confirm(
-        "Would you like to save the loans you qualify for?").ask()
     csvpath = Path("qualified_loans.csv")
     save_csv(csvpath, qualifying_loans)
 
