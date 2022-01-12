@@ -35,7 +35,7 @@ def get_applicant_info():  # Prompt dialog to get user's information
 
     credit_score = questionary.text("What's your credit score?").ask()
     debt = questionary.text(
-        "What's your current amonth of monthly debt?").ask()
+        "What's your current amount of monthly debt?").ask()
     income = questionary.text("What's your total monthly income?").ask()
     loan_amount = questionary.text("What's your desired loan amount?").ask()
     home_value = questionary.text("What's your home value?").ask()
@@ -72,6 +72,8 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan_amount, ho
 
 def save_qualified_loans(qualifying_loans):
 
+    csvpath = questionary.confirm(
+        "Would you like to save the loans you qualify for?").ask()
     csvpath = Path("qualified_loans.csv")
     save_csv(csvpath, qualifying_loans)
 

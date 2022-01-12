@@ -1,0 +1,897 @@
+   50  python
+   51  python -m pip install novas
+   52  --upgrade pip
+   53  '/Users/angelreyes/tutorial-env/bin/python -m pip install --upgrade pip'
+   54  /Users/angelreyes/tutorial-env/bin/python -m pip install --upgrade pip
+   55  pip show requests
+   56  pip list
+   57  pip freeze > requirements.txt
+   58  cat requirements.txt
+   59  pip show requests
+   60  python -m install --upgrade requests
+   61  python -m pip install requests==2.6.0
+   62  python -m install --upgrade requests
+   63  python pip -m install --upgrade requests
+   64  python -m pip install --upgrade requests
+   65  pip show requests
+   66  pip list
+   67  pip freeze > requirements.txt
+   68  cat requirements.txt
+   69  python -m pip install -r requirements.txt
+   70  cs
+   71  cd
+   72  exit
+   73  conda --version
+   74  conda update conda
+   75  conda update anaconda
+   76  conda create -n dev python=3.7 anaconda
+   77  conda activate dev
+   78  conda init bash
+   79  conda deactivate
+   80  conda activate dev
+   81  conda deactivate
+   82  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   83  echo #{SHELL}
+   84  echo # {SHELL}
+   85  echo #{SHELL}
+   86  conda activate dev
+   87  conda init zsh
+   88  conda deactivate
+   89  conda init zsh
+   90  conda activate dev
+   91  pythpon -m ipykernal install --user --name dev
+   92  python -m ipykernal install --user --name dev
+   93  conda deactivate
+   94  python -m ipykernal install --user --name dev
+   95  python -m ipykernel install --user --name dev
+   96  conda activate dev
+   97  python -m ipykernel install --user --name dev
+   98  conda install -c conda-forge nodejs
+   99  conda deactivate
+  100  cd Desktop
+  101  ls
+  102  mkdir test
+  103  touch sample.txt
+  104  cd test
+  105  ls
+  106  cd ..
+  107  mv sample.txt test
+  108  cd test
+  109  ls
+  110  mv sample.txt zample.txt
+  111  ls
+  112  clear
+  113  ~/git
+  114  ls
+  115  mkdir
+  116  mkdir git
+  117  cd git
+  118  git clone git@github.com:AngelR0/codingdemo.git
+  119  open . 
+  120  cd codingdemo/
+  121  ls
+  122  git add -A
+  123  git commit -m "Added an index.html file"
+  124  git push origin master
+  125  git push origin
+  126  git push origin main
+  127  git checkout -b header
+  128  git add -A
+  129  git commit -m "Adds a header to index.html file"
+  130  git push origin header
+  131  git checkout main
+  132  git pull
+  133  conda activte dev
+  134  yes
+  135  conda activate dev
+  136  jupyter lab
+  137  conda deactivate
+  138  conda activate dev
+  139  jupyter lab
+  140  conda deactivate
+  141  conda activate dev
+  142  conda install -c conda-forge nodejs
+  143  cd
+  144  conda install -c conda-forge nodejs
+  145  ssh-add ~/.ssh/id_rsa
+  146  exit
+  147  git config --global user.name "AngelR0"
+  148  --global user.name
+  149  git config --global user.name
+  150  git config --global user.email "reyesangel216321@gmail.com"
+  151  git config --global user.email
+  152  git config user.name
+  153  git config --global user.name
+  154  exit
+  155  ssh -T git@github.com
+  156  pbcopy < ~/.ssh/id_rsa.pub
+  157  cd
+  158  ls
+  159  ls -
+  160  ls -ssh
+  161  ls
+  162  cd AngelR0
+  163  ls
+  164  ls -a
+  165  cd .
+  166  cd ..
+  167  ls
+  168  cd Public
+  169  ls
+  170  cd ..
+  171  ls
+  172  cd Desktop
+  173  ls
+  174  open test
+  175  ls -al ~/ .ssh
+  176  ls -al ~/ .ssh
+  177  pbcopy < ~/.ssh/id_rsa.pub
+  178  clear
+  179  cd .ssh
+  180  .ssh
+  181  open .ssh
+  182  cd
+  183  cd
+  184  ls .ssh
+  185  open id_rsa.pub
+  186  cd id_rsa.pub
+  187  cd id_rsa
+  188  cat id_rsa.pu
+  189  clear
+  190  /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U jupyter /var/folders/kj/k8nhrqcx6s33mfsn333wsk800000gn/T/tmp-1933QtVb8HX1LJul.log
+  191  /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U jupyter /var/folders/kj/k8nhrqcx6s33mfsn333wsk800000gn/T/tmp-19331meGxGgwwHy3.log
+  192  /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U notebook /var/folders/kj/k8nhrqcx6s33mfsn333wsk800000gn/T/tmp-1933ZqgFvNurtv4X.log
+  193  /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U notebook /var/folders/kj/k8nhrqcx6s33mfsn333wsk800000gn/T/tmp-1933OJhhZ7ZkLNwu.log
+  194  -m pip install --upgrade pip
+  195  python3 -m pip install --upgrade pip
+  196  echo $SHELL
+  197  conda init zsh
+  198  clear
+  199  mkdir FinTech_Workspace
+  200  ls
+  201  cd FinTech_Workspace
+  202  ls
+  203  cd ~
+  204  ls
+  205  pwd
+  206  cd
+  207  pwd
+  208  ls
+  209  cd FinTech_Workspace
+  210  pwd
+  211  ls
+  212  cd Python_Project
+  213  ls
+  214  conda activate dev
+  215  python --version
+  216  code .
+  217  code .
+  218  python hello_python.py
+  219  conda deactivare
+  220  conda deactivate
+  221  code .
+  222  code .
+  223  ls
+  224  code .
+  225  exit 
+  226  /usr/bin/python3 -m pip install -U autopep8
+  227  /Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+  228   /usr/bin/env /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51031 -- /Users/angelreyes/Desktop/FinTech_Workspace/Python_Project/hello_python.py 
+  229   cd /Users/angelreyes/Desktop/FinTech_Workspace ; /usr/bin/env /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51253 -- /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/variable.py 
+  230   cd /Users/angelreyes/Desktop/FinTech_Workspace ; /usr/bin/env /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51270 -- /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/variable.py 
+  231  ls
+  232  python Skill_Drill
+  233  python Skill_Drill
+  234   cd /Users/angelreyes/Desktop/FinTech_Workspace ; /usr/bin/env /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51293 -- /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/variable.py 
+  235  ls
+  236  cd Skill_Drill
+  237  python variable.py
+  238  conda activate dev
+  239  python variable.py
+  240  python variable.py
+  241  python variable.py
+  242  python variable.py
+  243   cd /Users/angelreyes/Desktop/FinTech_Workspace ; /usr/bin/env /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51345 -- /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/variable.py 
+  244  python variable.py
+  245  python Skill_Drill
+  246  cd Skill_Drill
+  247  ls
+  248  python variable.py
+  249  python variable.py
+  250  cd
+  251  cd Downloads
+  252  cd 01_Hello_Variable_World/Unsolved
+  253  ls
+  254  python hello_variable_world.py
+  255  python hello_variable_world.py
+  256  python hello_variable_world.py
+  257  python hello_variable_world.py
+  258   /usr/bin/env /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51505 -- /Users/angelreyes/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py 
+  259  python hello_variable_world.py
+  260  conda activate dev
+  261  python hello_variable_world.py
+  262  ls
+  263  cd Unsolved
+  264  python hello_variable_world.py
+  265  ls
+  266  cd Desktop
+  267  cd FinTech_Workspace
+  268  cd Python_Project
+  269  code .
+  270  conda activate
+  271  cd ..
+  272  ls
+  273  cd Skill_Drill
+  274  ls
+  275  python variable.py
+  276  cd
+  277  ls
+  278  cd Downloads
+  279  ls
+  280  cd 01_Hello_Variable_World
+  281  ls
+  282  pwd
+  283  cd Unsolved
+  284  ls
+  285  conda activate dev
+  286  python hello_variable_world.py
+  287  ls
+  288  cd
+  289  pw
+  290  pwd
+  291  ls
+  292  cd Downloads/01_Hello_Variable_World/Unsolved
+  293  conda deactivate
+  294  mv hello_variable_world.py Desktop/FinTech_Workspace
+  295  ls
+  296  mv hello_variable_world.py ~/Desktop/FinTech_Workspace
+  297  pwd
+  298  ls
+  299  cd ..
+  300  mv Unsolved ~/Desktop
+  301  mv Unsolved ~/Downloads/01_Hello_Variable_World
+  302  cd ..
+  303  cd ..
+  304  cd Desktop
+  305  mv Unsolved ~/Downloads/01_Hello_Variable_World
+  306  exit
+  307  cd .ssh
+  308  pbcopy < ~/.ssh/id_rsa.pub
+  309  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+  310  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+  311  conda activate
+  312  jupyter notebook
+  313  conda deactivate
+  314  cd
+  315  clear
+  316  clear
+  317  clear
+  318  conda activate
+  319  jupyter notebook
+  320  conda deactivate
+  321  /usr/bin/python3
+  322  conda activate
+  323  ls
+  324  python variable.py
+  325  /usr/bin/python3
+  326   /usr/bin/env /usr/bin/python3 /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54850 -- /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/pythonFunctions.py 
+  327  conda deactivate
+  328  cd Desktop
+  329  cd FinTech_Workspace
+  330  mdkir Class
+  331  mkdir Class
+  332  ls
+  333  mv BasicPython.py.ipynb Class
+  334  ls
+  335  mv Untitled.ipynb Class
+  336  cd samp
+  337  conda activate
+  338  jupyter notebook
+  339  mv Untitled.ipynb Desktop/FinTech_Workspace/
+  340  conda deactivate
+  341  conda activate
+  342  jupyter notebook
+  343  clear
+  344  cd
+  345  conda deactivate
+  346  cd
+  347  pwd
+  348  la
+  349  ls
+  350  cd Desktop
+  351  ls
+  352  mkdir sample
+  353  cd sample
+  354  touch a.txt
+  355  ls
+  356  ls -a
+  357  ls -al
+  358  echo "Somehting here" >> a.txt
+  359  cat a.txt
+  360  code a.txt
+  361  note a.txt
+  362  notepad a.txt
+  363  touch samplepython.py
+  364  ls
+  365  code samplepython.py
+  366  python samplepython.py
+  367  python samplepython.py
+  368  python samplepython.py
+  369  mv a.txt b.txt
+  370  ls
+  371  clear
+  372  rm b.txt
+  373  ls
+  374  cd ..
+  375  ls
+  376  rm -r sample
+  377  ls
+  378  cd
+  379  cd Desktop
+  380  git clone git@github.com:AngelR0/sample.git
+  381  ls
+  382  cd sample
+  383  ls
+  384  code README.md
+  385  cat README.md
+  386  pwd
+  387  git add .
+  388  git commit -m "added some code"
+  389  git push
+  390  git pull
+  391  code README.md
+  392  gjhg
+  393  clear
+  394  clear
+  395  pro
+  396  clear
+  397  conda deactivate
+  398  clear
+  399  clear
+  400  clear
+  401  cd Desktop
+  402  /usr/bin/python3
+  403  conda activate
+  404  cd Downloads
+  405  ls
+  406  python 03_Pathways_to_Success_Part_2
+  407  cd 03_Pathways_to_Success_Part_2
+  408  ls
+  409  cd Unsolved
+  410  ls
+  411  python pathways_to_success_part_2.py
+  412  cat pathways_to_success_part_2.py
+  413  clear
+  414  lsls
+  415  ls
+  416  cat quarterly_data.csv
+  417  python pathways_to_success_part_2.py
+  418  conda activate
+  419  cd
+  420  ls
+  421  cd Downloads
+  422  ls
+  423  cd 01_Read_and_Write_CSV
+  424  ls
+  425  mv quarterly_data.csv ~/Desktop/FinTech_Workspace/Skill_Drill
+  426  ls
+  427  cd 
+  428  cd Desktop/FinTech_Workspace/Skill_Drill
+  429  ls
+  430  cd ..
+  431  ls
+  432  cd Skill_Drill
+  433  ls
+  434  code quarterly_data.csv
+  435  pip freeze
+  436  clear
+  437  cd Downloads
+  438  ls
+  439  ls
+  440  mv File /AngelR0
+  441  cd
+  442  cd
+  443  cd Downloads
+  444  cd Files
+  445  cd File
+  446  show_data.shows
+  447  conda activate
+  448  ls
+  449  show_data.py.shows
+  450  show_data.shows
+  451  cd
+  452  ls
+  453  cd Downloads
+  454  ls
+  455  mv File ~/AngelR0
+  456  cd
+  457  cd AngelR0
+  458  cd File
+  459  ls
+  460  mv show_data.py ~/AngelR0
+  461  mv accounts.csv ~/AngelR0
+  462  mv pokemon.csv ~/AngelR0
+  463  cd ..
+  464  clear
+  465  cd
+  466  conda activate dev
+  467  pip -v
+  468  pip -q
+  469  pip -V
+  470  clear
+  471  pip install fire
+  472  pip install questionary
+  473  clear
+  474  jupyter notebook
+  475  conda deactivate
+  476  /usr/bin/python3
+  477  conda activate
+  478  conda activate dev
+  479  print(qualifying_loans)
+  480  monthly_debt_ratio = int(monthly_debt_payment) / int(monthly_income)
+  481  cd
+  482  cd Downloads
+  483  ls
+  484  cd 02_Loan_Qualifier_Filtering_Data/Unsolved
+  485  ls
+  486  python app.py
+  487  python app.py
+  488  cd
+  489  cd
+  490  ls
+  491  cd AngelR0
+  492  ls
+  493  ls
+  494  cd
+  495  cd Desktop
+  496  ls
+  497  cd Challenges
+  498  ls
+  499  git commit push loan_analyzer.py
+  500  cd ..
+  501  git push Challenges
+  502  conda deactivate
+  503  git push Challenges
+  504  git pull git@github.com:AngelR0/GitHub_Upload.git
+  505  cd
+  506  git push git@github.com:AngelR0/GitHub_Upload.git
+  507  git 
+  508  git clone git@github.com:AngelR0/GitHub_Upload.git
+  509  ls
+  510  cd GitHub_Upload
+  511  ls
+  512  cd Challenges
+  513  ls
+  514  code loan_analyzer.py
+  515  cd
+  516  git init
+  517  git init git@github.com:AngelR0/GitHub_Upload.git
+  518  conda activate dev
+  519  ls
+  520  cd git@github.com:AngelR0
+  521  ls
+  522  cd GitHub_Upload.git
+  523  ls
+  524  cd ..
+  525  cd ..
+  526  ls
+  527  cd git@github.com:AngelR0
+  528  pwd
+  529  cd 
+  530  rm git@github.com:AngelR0
+  531  rmv git@github.com:AngelR0
+  532  rm -r git@github.com:AngelR0
+  533  ls
+  534  cd AngelR0
+  535  ls
+  536  ls
+  537  cd
+  538  ls
+  539  cd GitHub_Upload
+  540  ls
+  541  cd
+  542  ls
+  543  rm -r GitHub_Upload
+  544  rm -r GitHub_Upload
+  545  ls
+  546  rm -R GitHub_Upload
+  547  clear
+  548  /usr/bin/python3
+  549  conda activate dev
+  550  jupyter notebook
+  551  clear
+  552  source /opt/anaconda3/bin/activate
+  553  conda activate dev
+  554  source /opt/anaconda3/bin/activate
+  555  conda activate dev
+  556  /opt/anaconda3/envs/dev/bin/python
+  557  python run.py
+  558  python run.py
+  559  python --version
+  560  source /opt/anaconda3/bin/activate
+  561  conda activate dev
+  562  ls
+  563  python run.py
+  564  python run.py
+  565  source /opt/anaconda3/bin/activate
+  566  conda activate base
+  567  cd
+  568  cd
+  569  pip install fire
+  570  fire --version
+  571  pip install questionary
+  572  conda activate dev
+  573  pip install fire
+  574  pip install questionary
+  575  cd Desktop/atm
+  576  python run.py
+  577  source /opt/anaconda3/bin/activate
+  578  conda activate base
+  579   /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51176 -- /Users/angelreyes/Desktop/atm/run.py 
+  580   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51214 -- /Users/angelreyes/Desktop/atm/utils.py 
+  581   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51222 -- /Users/angelreyes/Desktop/atm/run.py 
+  582   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51396 -- extension-output-formulahendry.code-runner-#1 
+  583   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51401 -- /Users/angelreyes/Desktop/atm/run.py 
+  584   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51433 -- /Users/angelreyes/Desktop/atm/run.py 
+  585   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51503 -- /Users/angelreyes/Desktop/atm/run.py 
+  586  python run.py
+  587  python run.py
+  588  python run.py
+  589  python run.py
+  590   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51591 -- /Users/angelreyes/Desktop/atm/run.py 
+  591  source /opt/anaconda3/bin/activate
+  592  conda activate base
+  593   /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51205 -- /Users/angelreyes/Desktop/atm/utils.py 
+  594   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51257 -- /Users/angelreyes/Desktop/atm/run.py 
+  595   cd /Users/angelreyes/Desktop/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51490 -- /Users/angelreyes/Desktop/atm/run.py 
+  596  source /opt/anaconda3/bin/activate
+  597  conda activate base
+  598   /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 51285 -- /Users/angelreyes/Desktop/atm/atm/run.py 
+  599  python run.py
+  600  python utils.py
+  601  cd Desktop
+  602  ls
+  603  ls -a
+  604  mkdir atm
+  605  cd atm
+  606  touch make_deposit.py
+  607  touch make_withdrawal.py
+  608  touch utils.py
+  609  touch run.py
+  610  ls
+  611  cd 
+  612  cd Downloads
+  613  ls
+  614  cd .. 
+  615  cd Documents
+  616  ls
+  617  ls
+  618  pip install fire
+  619  pip install questionary
+  620  cd
+  621  cd
+  622  pip install fire
+  623  pip install questionary
+  624  cd
+  625  clear
+  626  cd Desktop
+  627  git clone git@github.com:AngelR0/fun.git
+  628  ls
+  629  cd fun
+  630  ls
+  631  code fun
+  632  code README.md
+  633  cat README.md
+  634  git add .
+  635  git commit -m "adding a code"
+  636  git push
+  637  ls
+  638  cd ..
+  639  cleat
+  640  source /opt/anaconda3/bin/activate
+  641  conda activate base
+  642   /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 49299 -- /Users/angelreyes/Downloads/atm/run.py 
+  643   cd /Users/angelreyes/Downloads/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 49315 -- /Users/angelreyes/Downloads/atm/make_withdrawal.py 
+  644   cd /Users/angelreyes/Downloads/atm ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 49322 -- /Users/angelreyes/Downloads/atm/run.py 
+  645  ls
+  646  python run.py
+  647  python run.py
+  648  python run.py
+  649  python run.py
+  650  source /opt/anaconda3/bin/activate
+  651  conda activate base
+  652  cd Downloads/atm
+  653  ls
+  654  python run.py
+  655  python run.py
+  656  python run.py
+  657  python run.py
+  658  python setup.py install
+  659  conda deactivate
+  660  cd Downloads/atm
+  661  python run.py
+  662  cd
+  663  cd Downloads/atm
+  664  python run.py install
+  665  cd
+  666  cd Desktop
+  667  git clone git@github.com:AngelR0/GitHub_Upload.git
+  668  vim add.py
+  669  remove -r add.py
+  670  ls
+  671  clear
+  672  conda activate base
+  673  ls
+  674  cd GitHub_Upload
+  675  ls
+  676  cd Challenges
+  677  ls
+  678  git add .
+  679  cd ..
+  680  cd ..
+  681  cd GitHub_Upload
+  682  git add .
+  683  git commit -m "Added:  number of loans, sum of loans, and the average of the loans"
+  684  cd Challenges
+  685  git add .
+  686  git commit -m "Added:  number of loans, sum of loans, and the average of the loans"
+  687  git push
+  688  git add .
+  689  git commit -m "Added:  Present value formula, to find out if the loan is worth it or not "
+  690  git add .
+  691  git commit -m "Added:  Present value formula, to find out if the loan is worth it or not "
+  692  git push
+  693  git add .
+  694  git add .
+  695  git commit -m "Added:  number of loans, sum of loans, and the average of the loans"
+  696  git push
+  697  git commit -m "Added:  number of loans, sum of loans, and the average of the loans"
+  698  git add .
+  699  git add .
+  700  git add .
+  701  git commit -m "Created a present value formula function."
+  702  git push
+  703  git add .
+  704  git commit -m "Added new list and to print out inexpensive loans"
+  705  git push
+  706  git add .
+  707  git commit -m "Created a csv file for the inexpensive loans"
+  708  git push
+  709  git add .
+  710  git commit -m "Adding the CSV file output in the folder"
+  711  git push
+  712  conda install fire -c conda-forge
+  713  pwd
+  714  ls
+  715  cd
+  716  cd
+  717  conda install fire -c conda-forge
+  718  pip install --user csv
+  719  pip install csv
+  720  pip install python-csv\n
+  721  cd Desktop/FinTech_Workspace
+  722  ls
+  723  mkdir Crypto
+  724  code
+  725  cd Crypto
+  726  code
+  727  code
+  728  touch crypto.py
+  729  code crypto.py
+  730  exit
+  731  cd Loan\ Qualifier
+  732  python app.py
+  733  source /opt/anaconda3/bin/activate
+  734  conda activate base
+  735   /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 62275 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/qualifier/utils/fileio.py" 
+  736   cd /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 62776 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/app.py" 
+  737  source /opt/anaconda3/bin/activate
+  738  conda activate base
+  739   /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 61950 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/app.py" 
+  740   cd /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 62090 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/app.py" 
+  741   cd /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 62098 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/app.py" 
+  742   cd /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 62180 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/app.py" 
+  743   cd /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 62259 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/app.py" 
+  744   cd /Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill ; /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 62808 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/app.py" 
+  745  source /opt/anaconda3/bin/activate
+  746  conda activate base
+  747  /opt/anaconda3/bin/python "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Loan Qualifier/qualifier/utils/fileio.py"
+  748  source /opt/anaconda3/bin/activate
+  749  conda activate base
+  750  python app.py
+  751  python cli.py
+  752  python cli.py
+  753  conda activate dev
+  754  python cli.py
+  755  ls
+  756  python cli.py --pants=True
+  757  source /opt/anaconda3/bin/activate
+  758  conda activate base
+  759   /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 54053 -- /Users/angelreyes/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py 
+  760  source /opt/anaconda3/bin/activate
+  761  conda activate base
+  762  python app.py --credit_score=750
+  763  python app.py --credit_score=750
+  764  python app.py --credit_score=500
+  765  source /opt/anaconda3/bin/activate
+  766  conda activate base
+  767  source /opt/anaconda3/bin/activate
+  768  conda activate base
+  769  cd Downloads/02_Adding_questionary_to_Loan_Qualifier/Solved
+  770  python app.py
+  771  pip install fire
+  772  cd Desktop/FinTech_Workspace
+  773  python cli.py
+  774  python cli.py --pants=True
+  775  cd 
+  776  cd Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App
+  777  ls
+  778  mv Adding Fire ./Desktop/FinTech_Workspace/ Skill_Drill
+  779  mv Adding Fire ~/Desktop/FinTech_Workspace/ Skill_Drill
+  780  mv ~/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Adding\ Fire ~/Desktop/FinTech_Workspace/Skill_Drill
+  781  cd ..
+  782  cd ..
+  783  cd ..
+  784  cd
+  785  cd Desktop/FinTech_Workspace
+  786  ls
+  787  cd Skill_Drill
+  788  ls
+  789  cd
+  790  pip install questionary
+  791  conda activate dev
+  792  jupyter notebook
+  793  source /opt/anaconda3/bin/activate
+  794  conda activate base
+  795  cd Desktop/FinTech_Workspace/Skill_Drill/Adding\ Questionary
+  796  python app.py 
+  797  python app.py 
+  798  python app.py cd 
+  799  cd
+  800  cd
+  801  cd Downloads/02_Adding_questionary_to_Loan_Qualifier/Solved
+  802  python app.py
+  803  pwd
+  804  ls
+  805  cd ..
+  806  ls
+  807  cd Adding Questionary
+  808  ls
+  809  cd Adding Questionary
+  810  cd Adding\ Questionary
+  811  ls
+  812  python app.py
+  813  python app.py --credit_score=750 --debt=5000 --income=20000
+  814  python app.py --credit_score=750 --debt=5000 --income=20000
+  815  la
+  816  ls
+  817  cd qualifier
+  818  ls
+  819  cd ..
+  820  python app.py --credit_score=750 --debt=5000 --income=20000
+  821  python app.py --credit_score=750 --debt=5000 --income=20000
+  822  python app.py --credit_score=750 --debt=5000 --income=20000
+  823  python app.py --credit_score=750 --debt=5000 --income=20000
+  824  python app.py --credit_score=750 --debt=5000 --income=20000
+  825  python app.py --credit_score=750 --debt=5000 --income=20000
+  826  python app.py --credit_score=750 --debt=5000 --income=20000
+  827  python app.py --credit_score=750 --debt=5000 --income=20000
+  828  python app.py --credit_score=750 --debt=5000 --income=20000
+  829  python app.py --credit_score=750 --debt=5000 --income=20000
+  830  python app.py --credit_score=750 --debt=5000 --income=20000
+  831  python app.py --credit_score=750 --debt=5000 --income=20000
+  832  python app.py
+  833  source /opt/anaconda3/bin/activate
+  834  conda activate base
+  835   /usr/bin/env /opt/anaconda3/bin/python /Users/angelreyes/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 62402 -- "/Users/angelreyes/Desktop/FinTech_Workspace/Skill_Drill/Adding Questionary/app.py" 
+  836  source /opt/anaconda3/bin/activate
+  837  conda activate dev
+  838  python app.py
+  839  python app.py
+  840  python app.py
+  841  cd Downloads/01-Creating_the_Loan_Qualifier_README_File/Unsolved
+  842  mv README.md ~/Desktop/FinTech_Workspace/Skill_Drill/Adding\ Questionary
+  843  cd
+  844  cd Desktop/FinTech_Workspace/Skill_Drill/Adding\ Questionary
+  845  ls
+  846  cd
+  847  cd Desktop
+  848  cd GitHub_Upload
+  849  git pull 
+  850  cd ..
+  851  git pull 
+  852  git clone git@github.com:AngelR0/Loan_Qualifier.git
+  853  cd Loan_Qualifier
+  854  mkdir data
+  855  mkdir qualifier
+  856  cd qualifier
+  857  mkdir filters
+  858  mkdir utils
+  859  ls
+  860  cd utils
+  861  touch fileio.py
+  862  touch calculators.py
+  863  cd ..
+  864  cd filters
+  865  cd ..
+  866  cd utils
+  867  ls
+  868  cd ..
+  869  cd filters
+  870  touch credit_score.py
+  871  touch debt_to_income.py
+  872  touch loan_to_value.py
+  873  touch max_loan_size.py
+  874  cd ..
+  875  cd ..
+  876  git add .
+  877  git commit -m "Added folders: qualifier and in it folders filters and utils"
+  878  git push
+  879  cd data
+  880  ls
+  881  touch daily_rate_sheet.csv
+  882  cd ..
+  883  cd qualifier/filters
+  884  ls
+  885  cd
+  886  cd Desktop/Loan_Qualifier
+  887  git add .
+  888  git commit -m "Added files: daily_rate_sheet.csv in folder data. In folder filters, files: credit_score.py, debt_to_income.py, loan_to_value.py, max_loan_size.py. In folder utils, files: calculators.py and fileio.py. "
+  889  git push
+  890  cd
+  891  cd Desktop
+  892  code Loan_Qualifier
+  893  cd Loan_Qualifier
+  894  ls
+  895  touch app.py
+  896  git add .
+  897  git commit -m "Added file app.py in folder Loan_Qualifier."
+  898  git push
+  899  cd qualifier
+  900  cd utils
+  901  git add .
+  902  git commit -m "Added fucntions in files: calculators.py, fileio.py"
+  903  git push
+  904  cd ..
+  905  cd filters
+  906  git add .
+  907  git commit -m "Added code in filess: credit_score.py, debt_to_income.py, loan_to_value.py, max_loan_size.py"
+  908  git push
+  909  git add .
+  910  cd ..
+  911  cd utils
+  912  git add . 
+  913  git commit -m "Fixed error in calculator.py and added function save_csv in fileio.py"
+  914  git push
+  915  cd ..
+  916  cd ..
+  917  ls
+  918  git add .
+  919  git commit -m "Added the main application in file app.py"
+  920  git push
+  921  cd qualifier/utils
+  922  ls
+  923  git add .
+  924  git commit -m "Fixed error in line 24. Was writerow and changed it 'writerows'."
+  925  git push
+  926  cd .. ..
+  927  cd .. cd ..
+  928  cd ..
+  929  cd ..
+  930  git add .
+  931  ls
+  932  git add .
+  933  git commit -m "Due to the error fix in file fileio.py, file qualified_loans.csv has been fixed and updated."
+  934  git push
+  935  exit
+  936  cd Desktop/Loan_Qualifier
+  937  ls
+  938  history 50 > terminal_history.txt
+  939  ls
+  940  code terminal_history.txt
+  941  history 50 < terminal_history.txt
+  942  python app.py
+  943  history 50 > terminal_history.txt
+  944  code terminal_history.txt
+  945  la
+  946  ls
