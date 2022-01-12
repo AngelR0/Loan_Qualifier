@@ -21,4 +21,4 @@ def save_csv(csvpath, data, header=None):
 
         if header:
             csvwriter.writerow(header)
-        csvwriter.writerow(data)
+        csvwriter.writerows(data)
