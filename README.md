@@ -45,6 +45,9 @@ To execute the application:
 * These are the prompts:
   
   ![App Prompts](Picture/../Pictures/App%20Prompts.png)
-----------------------------------------------------------------
+
+* At the end of the application it will ask you if you want to save the file. 
+  * If 'Yes' then you will be prompted to save the file. Include '.csv' after the title of the file to save it correctly.
+  * if 'No' then you will be prompted "Did not save qualified loans." Do nothing further the application will exit.
 ## Contributors
 Brought to you by Angel Reyes.
