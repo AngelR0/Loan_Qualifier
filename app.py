@@ -24,7 +24,8 @@ def load_bank_data():
     csvpath = Path(csvpath)
 
     if not csvpath.exists():
-        sys.exit(f"Cannot find this path you have entered: {csvpath} .")
+        sys.exit("File does not exist")
+
     return load_csv(csvpath)
 
 
@@ -73,7 +74,17 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan_amount, ho
 def save_qualified_loans(qualifying_loans):
 
     csvpath = Path("qualified_loans.csv")
-    save_csv(csvpath, qualifying_loans)
+    csvpath = questionary.confirm(
+        "Would you like to save the loans you qualified?").ask()
+
+    if csvpath:
+        csvpath = questionary.text(
+            "Enter a file path to a save the qualified loans, and title for it, followed by .csv:").ask()
+
+        save_csv(csvpath, qualifying_loans)
+
+    else:
+        print("Did not save qualified loans.")
 
 
 def run():
